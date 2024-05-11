@@ -7,7 +7,7 @@ body {
 }
 
 .main {
-  background-image: url("../images/main.jpg");
+  background-image: url("./images/main.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -31,7 +31,7 @@ body {
 /* NAMES */
 
 .main-left__names {
-  background-image: url("../images/main-img.jpg");
+  background-image: url("./images/main-img.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -172,7 +172,7 @@ body {
 /* LOCATION */
 
 .main-right__location {
-  background-image: url("../images/location-img.jpg");
+  background-image: url("./images/location-img.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -295,7 +295,7 @@ body {
     padding: 0;
   }
   .main-left__names {
-    background-image: url("../images/main.jpg");
+    background-image: url("./images/main.jpg");
     height: 600px;
   }
 }
