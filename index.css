@@ -328,4 +328,16 @@ body {
   .main-right__time-item-inside-text {
     width: 80%;
   }
+  .main-left__footer-hands {
+    width: 235px;
+    height: 321px;
+    z-index: 2;
+  }
+
+  .main-left__footer-flower {
+    position: absolute;
+    top: 180px;
+    width: 226px;
+    height: 309px;
+  }
 }
